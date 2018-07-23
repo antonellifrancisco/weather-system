@@ -4,7 +4,7 @@ import java.awt.*;
 import java.util.List;
 
 import com.mercadolibre.weather.domain.SunLocation;
-import com.mercadolibre.weather.infraestructure.utils.PlanePosition;
+import com.mercadolibre.weather.infrastructure.utils.PlanePosition;
 
 public class LocationService {
 

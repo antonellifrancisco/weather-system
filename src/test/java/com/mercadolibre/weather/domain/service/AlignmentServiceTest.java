@@ -10,7 +10,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import com.mercadolibre.weather.domain.AlignmentThreshold;
-import com.mercadolibre.weather.infraestructure.utils.PlanePosition;
+import com.mercadolibre.weather.infrastructure.utils.PlanePosition;
 import com.mercadolibre.weather.domain.Alignment;
 
 public class AlignmentServiceTest {

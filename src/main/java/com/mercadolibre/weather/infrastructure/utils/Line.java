@@ -1,9 +1,7 @@
-package com.mercadolibre.weather.infraestructure.utils;
+package com.mercadolibre.weather.infrastructure.utils;
 
 import java.awt.geom.Line2D;
 import java.awt.geom.Point2D;
-
-import javafx.util.Pair;
 
 import com.mercadolibre.weather.domain.Distance;
 

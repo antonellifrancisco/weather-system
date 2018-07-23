@@ -6,12 +6,12 @@ import java.util.List;
 import com.mercadolibre.weather.domain.Alignment;
 import com.mercadolibre.weather.domain.AlignmentThreshold;
 import com.mercadolibre.weather.domain.Distance;
-import com.mercadolibre.weather.infraestructure.utils.Combinator;
-import com.mercadolibre.weather.infraestructure.utils.Line;
+import com.mercadolibre.weather.infrastructure.utils.Combinator;
+import com.mercadolibre.weather.infrastructure.utils.Line;
 
 import javafx.util.Pair;
 
-import com.mercadolibre.weather.infraestructure.utils.PlanePosition;
+import com.mercadolibre.weather.infrastructure.utils.PlanePosition;
 
 public class AlignmentService {
 

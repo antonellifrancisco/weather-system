@@ -9,9 +9,9 @@ import com.mercadolibre.weather.domain.Days;
 import com.mercadolibre.weather.domain.Galaxy;
 import com.mercadolibre.weather.domain.RainIntensity;
 import com.mercadolibre.weather.domain.Weather;
-import com.mercadolibre.weather.infraestructure.utils.Combinator;
-import com.mercadolibre.weather.infraestructure.utils.Line;
-import com.mercadolibre.weather.infraestructure.utils.PlanePosition;
+import com.mercadolibre.weather.infrastructure.utils.Combinator;
+import com.mercadolibre.weather.infrastructure.utils.Line;
+import com.mercadolibre.weather.infrastructure.utils.PlanePosition;
 
 public class RainIntensityService {
 

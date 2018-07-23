@@ -1,6 +1,6 @@
 package com.mercadolibre.weather.domain
 
-import com.mercadolibre.weather.infraestructure.utils.PlanePosition
+import com.mercadolibre.weather.infrastructure.utils.PlanePosition
 
 class Sun {
 

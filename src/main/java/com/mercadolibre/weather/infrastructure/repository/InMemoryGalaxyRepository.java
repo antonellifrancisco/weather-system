@@ -1,4 +1,4 @@
-package com.mercadolibre.weather.infraestructure.repository;
+package com.mercadolibre.weather.infrastructure.repository;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import com.mercadolibre.weather.domain.Planet;
 import com.mercadolibre.weather.domain.Planets;
 import com.mercadolibre.weather.domain.Sun;
 import com.mercadolibre.weather.domain.repository.GalaxyRepository;
-import com.mercadolibre.weather.infraestructure.utils.StarFactory;
+import com.mercadolibre.weather.infrastructure.utils.StarFactory;
 
 public class InMemoryGalaxyRepository implements GalaxyRepository {
 

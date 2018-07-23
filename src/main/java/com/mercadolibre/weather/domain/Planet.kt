@@ -1,7 +1,7 @@
 package com.mercadolibre.weather.domain
 
-import com.mercadolibre.weather.infraestructure.utils.DegreesPosition
-import com.mercadolibre.weather.infraestructure.utils.PlanePosition
+import com.mercadolibre.weather.infrastructure.utils.DegreesPosition
+import com.mercadolibre.weather.infrastructure.utils.PlanePosition
 
 class Planet(private val speed: Speed, val distance: Distance, private val direction: Direction) {
 

@@ -6,12 +6,12 @@ import javax.swing.*;
 
 import com.mercadolibre.weather.domain.AlignmentThreshold;
 import com.mercadolibre.weather.domain.Galaxy;
-import com.mercadolibre.weather.infraestructure.repository.InMemoryGalaxyRepository;
+import com.mercadolibre.weather.infrastructure.repository.InMemoryGalaxyRepository;
 import com.mercadolibre.weather.domain.Days;
 import com.mercadolibre.weather.domain.service.AlignmentService;
 import com.mercadolibre.weather.domain.service.WeatherService;
 import com.mercadolibre.weather.domain.service.LocationService;
-import com.mercadolibre.weather.infraestructure.utils.PlanePosition;
+import com.mercadolibre.weather.infrastructure.utils.PlanePosition;
 import com.mercadolibre.weather.domain.Weather;
 
 public class TestApp extends JPanel {

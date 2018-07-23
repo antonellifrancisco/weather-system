@@ -1,4 +1,4 @@
-package com.mercadolibre.weather.infraestructure.utils;
+package com.mercadolibre.weather.infrastructure.utils;
 
 import com.mercadolibre.weather.domain.Direction;
 import com.mercadolibre.weather.domain.Displacement;

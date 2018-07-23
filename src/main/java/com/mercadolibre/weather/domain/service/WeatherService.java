@@ -7,7 +7,7 @@ import com.mercadolibre.weather.domain.Galaxy;
 import com.mercadolibre.weather.domain.Days;
 import com.mercadolibre.weather.domain.Weather;
 
-import com.mercadolibre.weather.infraestructure.utils.PlanePosition;
+import com.mercadolibre.weather.infrastructure.utils.PlanePosition;
 import com.mercadolibre.weather.domain.Alignment;
 import com.mercadolibre.weather.domain.SunLocation;
 

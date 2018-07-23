@@ -1,4 +1,4 @@
-package com.mercadolibre.weather.infraestructure.rest;
+package com.mercadolibre.weather.infrastructure.rest;
 
 import javax.validation.constraints.NotNull;
 import javax.ws.rs.GET;
@@ -11,7 +11,7 @@ import javax.ws.rs.core.Response;
 import com.mercadolibre.weather.actions.GetDayWeather;
 import com.mercadolibre.weather.domain.Weather;
 import com.mercadolibre.weather.domain.Days;
-import com.mercadolibre.weather.infraestructure.rest.representation.GetWeatherResponse;
+import com.mercadolibre.weather.infrastructure.rest.representation.GetWeatherResponse;
 
 @Path("/weather")
 @Produces(MediaType.APPLICATION_JSON)

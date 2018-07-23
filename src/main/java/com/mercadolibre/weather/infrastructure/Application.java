@@ -1,4 +1,4 @@
-package com.mercadolibre.weather.infraestructure;
+package com.mercadolibre.weather.infrastructure;
 
 import com.mercadolibre.weather.actions.GetDayWeather;
 import com.mercadolibre.weather.actions.GetPeriodWeathers;
@@ -8,9 +8,9 @@ import com.mercadolibre.weather.domain.service.AlignmentService;
 import com.mercadolibre.weather.domain.service.LocationService;
 import com.mercadolibre.weather.domain.service.RainIntensityService;
 import com.mercadolibre.weather.domain.service.WeatherService;
-import com.mercadolibre.weather.infraestructure.repository.InMemoryGalaxyRepository;
-import com.mercadolibre.weather.infraestructure.rest.GetDayWeatherResource;
-import com.mercadolibre.weather.infraestructure.rest.GetPeriodWeathersResource;
+import com.mercadolibre.weather.infrastructure.repository.InMemoryGalaxyRepository;
+import com.mercadolibre.weather.infrastructure.rest.GetDayWeatherResource;
+import com.mercadolibre.weather.infrastructure.rest.GetPeriodWeathersResource;
 
 import io.dropwizard.Configuration;
 import io.dropwizard.setup.Environment;

@@ -1,9 +1,7 @@
-package com.mercadolibre.weather.infraestructure.utils;
+package com.mercadolibre.weather.infrastructure.utils;
 
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
-
-import java.awt.geom.Point2D;
 
 import org.jetbrains.annotations.NotNull;
 import org.junit.Assert;

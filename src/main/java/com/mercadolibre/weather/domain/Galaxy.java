@@ -3,7 +3,7 @@ package com.mercadolibre.weather.domain;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import com.mercadolibre.weather.infraestructure.utils.PlanePosition;
+import com.mercadolibre.weather.infrastructure.utils.PlanePosition;
 
 public class Galaxy {
 

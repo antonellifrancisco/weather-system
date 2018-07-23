@@ -1,4 +1,4 @@
-package com.mercadolibre.weather.infraestructure.utils;
+package com.mercadolibre.weather.infrastructure.utils;
 
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
